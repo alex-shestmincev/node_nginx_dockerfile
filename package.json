@@ -1,0 +1,24 @@
+{
+  "name": "node_nginx_dockerfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klik1301/node_nginx_dockerfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klik1301/node_nginx_dockerfile/issues"
+  },
+  "homepage": "https://github.com/klik1301/node_nginx_dockerfile#readme",
+  "dependencies": {
+    "koa": "2.11.0",
+    "koa-router": "8.0.8"
+  }
+}
